@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": " Doctor Aid Program",
+        "description": " A console application where doctors can get information about their patients",
+        "longDescription": " This application is the first application developed with python. The scope of this project was to develop an application where doctors can record patients, view patient information, and get suggestions on whether patients should have cancer treatment. While coding this project, I found answers to questions such as how to set up an algorithm, what is the program flow, what should be the inputs and outputs."
+    },
+    "tr":{
+        "title": "Doktor Yardım Programı",
+        "description": "Doktorların hastaları hakkında bilgi alabileceği bir konsol uygulaması",
+        "longDescription": "Bu uygulama python ile gelişltirdiği ilk uygulama. Bu projenin kapsamı, doktorların hasta kaydı yapabileceği, hastaların bilgilerini görebileceği, hastaların kanser tedavisi olup olmaması gerektiği hakkında öneri alabileceği bir uygulama geliştirmekti. Bu projeyi kodlarken algoritma nasıl kurulur, program akışı nedir, girdi ve çıktılar nasıl olmalı gibi konularda cevap buldum."
+    },
+    "tags":["consoleApp","python"]
+}
